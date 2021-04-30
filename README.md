@@ -3,7 +3,7 @@ Tutorial de Manipulação de Cor, Gradientes e Filtros de Imagem em CSS
 
 ________
 Cor
-- [https://github.com/BarbaraTaveira/Tutorial_Cor] https://github.com/BarbaraTaveira/Tutorial_Cor
+- https://github.com/BarbaraTaveira/Tutorial_Cor
 
 Gradientes
 - https://github.com/BarbaraTaveira/Tutorial_Gradiente
@@ -11,3 +11,4 @@ Gradientes
 Filtros de Imagem
 - https://github.com/BarbaraTaveira/Tutorial_Filtros_de_Imagem
 
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
