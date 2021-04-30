@@ -10,5 +10,3 @@ Gradientes
 
 Filtros de Imagem
 - https://github.com/BarbaraTaveira/Tutorial_Filtros_de_Imagem
-
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile. 
